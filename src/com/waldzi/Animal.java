@@ -4,8 +4,8 @@ public class Animal {
 
     private String name;
     private String group;
-    String description;
-    String continent;
+    private String description;
+    private String continent;
 
     public String getName() {
         return name;
